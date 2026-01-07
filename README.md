@@ -25,3 +25,10 @@ To explore and understand student-related data and prepare it for building machi
 - Clean the dataset
 - Handle missing values
 - Prepare features for machine learning models
+
+
+## Phase 1 – Day 2 Work
+- Handled missing values
+- Fixed data types
+- Removed unnecessary data
+- Saved a cleaned dataset for machine learning
