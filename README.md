@@ -39,3 +39,10 @@ To explore and understand student-related data and prepare it for building machi
 - Separated features and target
 - Encoded categorical features
 - Prepared dataset for machine learning models
+
+
+## Phase 1 – Day 4 Work
+- Split data into training and testing sets
+- Trained first machine learning model
+- Generated predictions on unseen data
+
