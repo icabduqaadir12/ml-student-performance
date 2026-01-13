@@ -41,8 +41,13 @@ To explore and understand student-related data and prepare it for building machi
 - Prepared dataset for machine learning models
 
 
-## Phase 1 – Day 4 Work
+## Phase 1 – Day 4 Work  12 Jan
 - Split data into training and testing sets
 - Trained first machine learning model
 - Generated predictions on unseen data
 
+
+## Phase 1 – Day 5 Work   13 Jan
+- Evaluated model performance using regression metrics
+- Analyzed prediction errors
+- Interpreted model results
